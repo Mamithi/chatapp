@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamithi/chatapp.git"
+  },
+  "author": "Mamithi",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io" : "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Mamithi/chatapp/issues"
+  },
+  "homepage": "https://github.com/Mamithi/chatapp#readme"
+}
